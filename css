@@ -1,0 +1,214 @@
+/*new css*/
+.home-cntct-css .contact-home
+{
+	color: #000 !important;
+font-family: 'Poppins' !important;
+font-size: 47px !important;
+font-style: normal !important;
+font-weight: 700 !important;
+line-height: normal !important;
+}
+
+.home-cntct-css .iwithtext .iwt-text {
+/*     padding-left: 0 !important; */
+    padding-top: 0 !important;
+    font-style: normal !important;
+    padding-right: 0 !important;
+}
+.cntct-formcss {
+    padding: 23px 0 0;
+}
+.cntct-formcss .form-group,
+.cntct-formcss1 .form-groups{
+    display: flex;
+}
+.form-group .col-sm-6 p {
+    display: flex;
+}
+.form-group  input[type=text], .ctnt-msg textarea, .form-group  input[type=email],
+.cntct-formcss1 .form-groups input[type=text],.cntct-formcss1 .form-groups input[type=email]{
+ 
+    border-radius: 20px !important;
+    border: 1px solid #FC2918 !important;
+
+}
+.form-group .col-sm-6 p label {
+    padding: 14px 20px 14px 0;
+	display: flex !important;
+	vertical-align: middle !important;
+	color: #000;
+    font-family: Cambay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.form-group span.wpcf7-form-control-wrap,
+.form-groups span.wpcf7-form-control-wrap{
+    padding: 0 15px 0 0;
+}
+.ctnt-msg,
+.ctnt-msg1{
+    padding-top: 29px;
+}
+
+.ctnt-msg textarea.wpcf7-form-control.wpcf7-textarea,
+{
+    margin: 29px 0;
+	height: 120px;
+}
+.ctnt-msg label{
+	color: #000 !important;
+    font-family: Cambay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.cntct-formcss input.wpcf7-form-control.has-spinner.wpcf7-submit {
+    padding: 20px 44px !important;
+    width: 227px;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#footer-outer .row {
+    padding: 75px 0 0 0 !important;
+}
+.social-iconcss .row {
+    padding-bottom: 0 !important;
+/* 	padding-top: 72px !important; */
+}
+.widget_nav_menu #menu-menu-1 li {
+    width: 50% !important;
+    float: left !important;
+	color: #000 !important;
+font-family: Cambay;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+	padding: 0 5% !important;
+}
+
+.widget_nav_menu h4,
+.widget_text h4{
+	color: #000;
+font-family: Cambay;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+	padding-bottom: 32px;
+}
+.widget_nav_menu h4,
+div#text-2 {
+    text-align: center;
+}
+.social-iconcss a {
+	padding: 15px 25px 15px ;
+}
+.textwidget span {
+    color: #000;
+    text-align: center;
+    font-family: Cambay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.textwidget p {
+    color: #000;
+    font-family: Cambay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+#copyright p{
+    color: #FFF !important;
+    text-align: center;
+    font-family: Cambay;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+/* about page */
+.about-sec-css h1 span {
+    color: #FC2918;
+    font-family: 'Cambay' !important;
+    font-size: 24px !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    line-height: normal !important;
+}
+.page-id-7 .wpb_wrapper {
+    color: #000;
+    font-family: Cambay;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.about-sec-css {
+    padding-bottom: 21px;
+}
+.page-id-7 .inner-wrap {
+    text-align: center;
+}
+.contct-h1 h1 {
+    color: #000;
+    font-family: Raleway;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.form-groups label,
+.ctnt-msg1 label{
+    color: #000;
+    font-family: Cambay;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.ctnt-msg1 textarea.wpcf7-form-control.wpcf7-textarea {
+    margin: 0 0 29px 0;
+    height: 120px;
+}
+.ctnt-msg1 textarea.wpcf7-form-control.wpcf7-textarea{
+	border-radius: 20px !important;
+border: 1px solid #FC2918 !important;
+}
+#cc i.fa.fa,
+#cc i.fa-yelp {
+	color: #FC2918 !important;
+    border: 0px solid#000 !important;
+    border-radius: 0 !important;
+   margin: 0 !important;
+}
+.social {
+    margin: 0 !important;
+}
+.cntct-formcss1 input.wpcf7-form-control.has-spinner.wpcf7-submit {
+    padding: 7px 44px !important;
+   
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+	border-radius: 0 !important;
+}
+.page-id-27 h1 {
+    text-align: center;
+}
